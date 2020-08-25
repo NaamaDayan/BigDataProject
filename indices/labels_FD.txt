@@ -1,0 +1,1140 @@
+Afghanistan	AFG	Final Demand	Household final consumption P.3h	
+Afghanistan	AFG	Final Demand	Non-profit institutions serving households P.3n	
+Afghanistan	AFG	Final Demand	Government final consumption P.3g	
+Afghanistan	AFG	Final Demand	Gross fixed capital formation P.51	
+Afghanistan	AFG	Final Demand	Changes in inventories P.52	
+Afghanistan	AFG	Final Demand	Acquisitions less disposals of valuables P.53	
+Albania	ALB	Final Demand	Household final consumption P.3h	
+Albania	ALB	Final Demand	Non-profit institutions serving households P.3n	
+Albania	ALB	Final Demand	Government final consumption P.3g	
+Albania	ALB	Final Demand	Gross fixed capital formation P.51	
+Albania	ALB	Final Demand	Changes in inventories P.52	
+Albania	ALB	Final Demand	Acquisitions less disposals of valuables P.53	
+Algeria	DZA	Final Demand	Household final consumption P.3h	
+Algeria	DZA	Final Demand	Non-profit institutions serving households P.3n	
+Algeria	DZA	Final Demand	Government final consumption P.3g	
+Algeria	DZA	Final Demand	Gross fixed capital formation P.51	
+Algeria	DZA	Final Demand	Changes in inventories P.52	
+Algeria	DZA	Final Demand	Acquisitions less disposals of valuables P.53	
+Andorra	AND	Final Demand	Household final consumption P.3h	
+Andorra	AND	Final Demand	Non-profit institutions serving households P.3n	
+Andorra	AND	Final Demand	Government final consumption P.3g	
+Andorra	AND	Final Demand	Gross fixed capital formation P.51	
+Andorra	AND	Final Demand	Changes in inventories P.52	
+Andorra	AND	Final Demand	Acquisitions less disposals of valuables P.53	
+Angola	AGO	Final Demand	Household final consumption P.3h	
+Angola	AGO	Final Demand	Non-profit institutions serving households P.3n	
+Angola	AGO	Final Demand	Government final consumption P.3g	
+Angola	AGO	Final Demand	Gross fixed capital formation P.51	
+Angola	AGO	Final Demand	Changes in inventories P.52	
+Angola	AGO	Final Demand	Acquisitions less disposals of valuables P.53	
+Antigua	ATG	Final Demand	Household final consumption P.3h	
+Antigua	ATG	Final Demand	Non-profit institutions serving households P.3n	
+Antigua	ATG	Final Demand	Government final consumption P.3g	
+Antigua	ATG	Final Demand	Gross fixed capital formation P.51	
+Antigua	ATG	Final Demand	Changes in inventories P.52	
+Antigua	ATG	Final Demand	Acquisitions less disposals of valuables P.53	
+Argentina	ARG	Final Demand	Household final consumption P.3h	
+Argentina	ARG	Final Demand	Non-profit institutions serving households P.3n	
+Argentina	ARG	Final Demand	Government final consumption P.3g	
+Argentina	ARG	Final Demand	Gross fixed capital formation P.51	
+Argentina	ARG	Final Demand	Changes in inventories P.52	
+Argentina	ARG	Final Demand	Acquisitions less disposals of valuables P.53	
+Armenia	ARM	Final Demand	Household final consumption P.3h	
+Armenia	ARM	Final Demand	Non-profit institutions serving households P.3n	
+Armenia	ARM	Final Demand	Government final consumption P.3g	
+Armenia	ARM	Final Demand	Gross fixed capital formation P.51	
+Armenia	ARM	Final Demand	Changes in inventories P.52	
+Armenia	ARM	Final Demand	Acquisitions less disposals of valuables P.53	
+Aruba	ABW	Final Demand	Household final consumption P.3h	
+Aruba	ABW	Final Demand	Non-profit institutions serving households P.3n	
+Aruba	ABW	Final Demand	Government final consumption P.3g	
+Aruba	ABW	Final Demand	Gross fixed capital formation P.51	
+Aruba	ABW	Final Demand	Changes in inventories P.52	
+Aruba	ABW	Final Demand	Acquisitions less disposals of valuables P.53	
+Australia	AUS	Final Demand	Household final consumption P.3h	
+Australia	AUS	Final Demand	Non-profit institutions serving households P.3n	
+Australia	AUS	Final Demand	Government final consumption P.3g	
+Australia	AUS	Final Demand	Gross fixed capital formation P.51	
+Australia	AUS	Final Demand	Changes in inventories P.52	
+Australia	AUS	Final Demand	Acquisitions less disposals of valuables P.53	
+Austria	AUT	Final Demand	Household final consumption P.3h	
+Austria	AUT	Final Demand	Non-profit institutions serving households P.3n	
+Austria	AUT	Final Demand	Government final consumption P.3g	
+Austria	AUT	Final Demand	Gross fixed capital formation P.51	
+Austria	AUT	Final Demand	Changes in inventories P.52	
+Austria	AUT	Final Demand	Acquisitions less disposals of valuables P.53	
+Azerbaijan	AZE	Final Demand	Household final consumption P.3h	
+Azerbaijan	AZE	Final Demand	Non-profit institutions serving households P.3n	
+Azerbaijan	AZE	Final Demand	Government final consumption P.3g	
+Azerbaijan	AZE	Final Demand	Gross fixed capital formation P.51	
+Azerbaijan	AZE	Final Demand	Changes in inventories P.52	
+Azerbaijan	AZE	Final Demand	Acquisitions less disposals of valuables P.53	
+Bahamas	BHS	Final Demand	Household final consumption P.3h	
+Bahamas	BHS	Final Demand	Non-profit institutions serving households P.3n	
+Bahamas	BHS	Final Demand	Government final consumption P.3g	
+Bahamas	BHS	Final Demand	Gross fixed capital formation P.51	
+Bahamas	BHS	Final Demand	Changes in inventories P.52	
+Bahamas	BHS	Final Demand	Acquisitions less disposals of valuables P.53	
+Bahrain	BHR	Final Demand	Household final consumption P.3h	
+Bahrain	BHR	Final Demand	Non-profit institutions serving households P.3n	
+Bahrain	BHR	Final Demand	Government final consumption P.3g	
+Bahrain	BHR	Final Demand	Gross fixed capital formation P.51	
+Bahrain	BHR	Final Demand	Changes in inventories P.52	
+Bahrain	BHR	Final Demand	Acquisitions less disposals of valuables P.53	
+Bangladesh	BGD	Final Demand	Household final consumption P.3h	
+Bangladesh	BGD	Final Demand	Non-profit institutions serving households P.3n	
+Bangladesh	BGD	Final Demand	Government final consumption P.3g	
+Bangladesh	BGD	Final Demand	Gross fixed capital formation P.51	
+Bangladesh	BGD	Final Demand	Changes in inventories P.52	
+Bangladesh	BGD	Final Demand	Acquisitions less disposals of valuables P.53	
+Barbados	BRB	Final Demand	Household final consumption P.3h	
+Barbados	BRB	Final Demand	Non-profit institutions serving households P.3n	
+Barbados	BRB	Final Demand	Government final consumption P.3g	
+Barbados	BRB	Final Demand	Gross fixed capital formation P.51	
+Barbados	BRB	Final Demand	Changes in inventories P.52	
+Barbados	BRB	Final Demand	Acquisitions less disposals of valuables P.53	
+Belarus	BLR	Final Demand	Household final consumption P.3h	
+Belarus	BLR	Final Demand	Non-profit institutions serving households P.3n	
+Belarus	BLR	Final Demand	Government final consumption P.3g	
+Belarus	BLR	Final Demand	Gross fixed capital formation P.51	
+Belarus	BLR	Final Demand	Changes in inventories P.52	
+Belarus	BLR	Final Demand	Acquisitions less disposals of valuables P.53	
+Belgium	BEL	Final Demand	Household final consumption P.3h	
+Belgium	BEL	Final Demand	Non-profit institutions serving households P.3n	
+Belgium	BEL	Final Demand	Government final consumption P.3g	
+Belgium	BEL	Final Demand	Gross fixed capital formation P.51	
+Belgium	BEL	Final Demand	Changes in inventories P.52	
+Belgium	BEL	Final Demand	Acquisitions less disposals of valuables P.53	
+Belize	BLZ	Final Demand	Household final consumption P.3h	
+Belize	BLZ	Final Demand	Non-profit institutions serving households P.3n	
+Belize	BLZ	Final Demand	Government final consumption P.3g	
+Belize	BLZ	Final Demand	Gross fixed capital formation P.51	
+Belize	BLZ	Final Demand	Changes in inventories P.52	
+Belize	BLZ	Final Demand	Acquisitions less disposals of valuables P.53	
+Benin	BEN	Final Demand	Household final consumption P.3h	
+Benin	BEN	Final Demand	Non-profit institutions serving households P.3n	
+Benin	BEN	Final Demand	Government final consumption P.3g	
+Benin	BEN	Final Demand	Gross fixed capital formation P.51	
+Benin	BEN	Final Demand	Changes in inventories P.52	
+Benin	BEN	Final Demand	Acquisitions less disposals of valuables P.53	
+Bermuda	BMU	Final Demand	Household final consumption P.3h	
+Bermuda	BMU	Final Demand	Non-profit institutions serving households P.3n	
+Bermuda	BMU	Final Demand	Government final consumption P.3g	
+Bermuda	BMU	Final Demand	Gross fixed capital formation P.51	
+Bermuda	BMU	Final Demand	Changes in inventories P.52	
+Bermuda	BMU	Final Demand	Acquisitions less disposals of valuables P.53	
+Bhutan	BTN	Final Demand	Household final consumption P.3h	
+Bhutan	BTN	Final Demand	Non-profit institutions serving households P.3n	
+Bhutan	BTN	Final Demand	Government final consumption P.3g	
+Bhutan	BTN	Final Demand	Gross fixed capital formation P.51	
+Bhutan	BTN	Final Demand	Changes in inventories P.52	
+Bhutan	BTN	Final Demand	Acquisitions less disposals of valuables P.53	
+Bolivia	BOL	Final Demand	Household final consumption P.3h	
+Bolivia	BOL	Final Demand	Non-profit institutions serving households P.3n	
+Bolivia	BOL	Final Demand	Government final consumption P.3g	
+Bolivia	BOL	Final Demand	Gross fixed capital formation P.51	
+Bolivia	BOL	Final Demand	Changes in inventories P.52	
+Bolivia	BOL	Final Demand	Acquisitions less disposals of valuables P.53	
+Bosnia and Herzegovina	BIH	Final Demand	Household final consumption P.3h	
+Bosnia and Herzegovina	BIH	Final Demand	Non-profit institutions serving households P.3n	
+Bosnia and Herzegovina	BIH	Final Demand	Government final consumption P.3g	
+Bosnia and Herzegovina	BIH	Final Demand	Gross fixed capital formation P.51	
+Bosnia and Herzegovina	BIH	Final Demand	Changes in inventories P.52	
+Bosnia and Herzegovina	BIH	Final Demand	Acquisitions less disposals of valuables P.53	
+Botswana	BWA	Final Demand	Household final consumption P.3h	
+Botswana	BWA	Final Demand	Non-profit institutions serving households P.3n	
+Botswana	BWA	Final Demand	Government final consumption P.3g	
+Botswana	BWA	Final Demand	Gross fixed capital formation P.51	
+Botswana	BWA	Final Demand	Changes in inventories P.52	
+Botswana	BWA	Final Demand	Acquisitions less disposals of valuables P.53	
+Brazil	BRA	Final Demand	Household final consumption P.3h	
+Brazil	BRA	Final Demand	Non-profit institutions serving households P.3n	
+Brazil	BRA	Final Demand	Government final consumption P.3g	
+Brazil	BRA	Final Demand	Gross fixed capital formation P.51	
+Brazil	BRA	Final Demand	Changes in inventories P.52	
+Brazil	BRA	Final Demand	Acquisitions less disposals of valuables P.53	
+British Virgin Islands	VGB	Final Demand	Household final consumption P.3h	
+British Virgin Islands	VGB	Final Demand	Non-profit institutions serving households P.3n	
+British Virgin Islands	VGB	Final Demand	Government final consumption P.3g	
+British Virgin Islands	VGB	Final Demand	Gross fixed capital formation P.51	
+British Virgin Islands	VGB	Final Demand	Changes in inventories P.52	
+British Virgin Islands	VGB	Final Demand	Acquisitions less disposals of valuables P.53	
+Brunei	BRN	Final Demand	Household final consumption P.3h	
+Brunei	BRN	Final Demand	Non-profit institutions serving households P.3n	
+Brunei	BRN	Final Demand	Government final consumption P.3g	
+Brunei	BRN	Final Demand	Gross fixed capital formation P.51	
+Brunei	BRN	Final Demand	Changes in inventories P.52	
+Brunei	BRN	Final Demand	Acquisitions less disposals of valuables P.53	
+Bulgaria	BGR	Final Demand	Household final consumption P.3h	
+Bulgaria	BGR	Final Demand	Non-profit institutions serving households P.3n	
+Bulgaria	BGR	Final Demand	Government final consumption P.3g	
+Bulgaria	BGR	Final Demand	Gross fixed capital formation P.51	
+Bulgaria	BGR	Final Demand	Changes in inventories P.52	
+Bulgaria	BGR	Final Demand	Acquisitions less disposals of valuables P.53	
+Burkina Faso	BFA	Final Demand	Household final consumption P.3h	
+Burkina Faso	BFA	Final Demand	Non-profit institutions serving households P.3n	
+Burkina Faso	BFA	Final Demand	Government final consumption P.3g	
+Burkina Faso	BFA	Final Demand	Gross fixed capital formation P.51	
+Burkina Faso	BFA	Final Demand	Changes in inventories P.52	
+Burkina Faso	BFA	Final Demand	Acquisitions less disposals of valuables P.53	
+Burundi	BDI	Final Demand	Household final consumption P.3h	
+Burundi	BDI	Final Demand	Non-profit institutions serving households P.3n	
+Burundi	BDI	Final Demand	Government final consumption P.3g	
+Burundi	BDI	Final Demand	Gross fixed capital formation P.51	
+Burundi	BDI	Final Demand	Changes in inventories P.52	
+Burundi	BDI	Final Demand	Acquisitions less disposals of valuables P.53	
+Cambodia	KHM	Final Demand	Household final consumption P.3h	
+Cambodia	KHM	Final Demand	Non-profit institutions serving households P.3n	
+Cambodia	KHM	Final Demand	Government final consumption P.3g	
+Cambodia	KHM	Final Demand	Gross fixed capital formation P.51	
+Cambodia	KHM	Final Demand	Changes in inventories P.52	
+Cambodia	KHM	Final Demand	Acquisitions less disposals of valuables P.53	
+Cameroon	CMR	Final Demand	Household final consumption P.3h	
+Cameroon	CMR	Final Demand	Non-profit institutions serving households P.3n	
+Cameroon	CMR	Final Demand	Government final consumption P.3g	
+Cameroon	CMR	Final Demand	Gross fixed capital formation P.51	
+Cameroon	CMR	Final Demand	Changes in inventories P.52	
+Cameroon	CMR	Final Demand	Acquisitions less disposals of valuables P.53	
+Canada	CAN	Final Demand	Household final consumption P.3h	
+Canada	CAN	Final Demand	Non-profit institutions serving households P.3n	
+Canada	CAN	Final Demand	Government final consumption P.3g	
+Canada	CAN	Final Demand	Gross fixed capital formation P.51	
+Canada	CAN	Final Demand	Changes in inventories P.52	
+Canada	CAN	Final Demand	Acquisitions less disposals of valuables P.53	
+Cape Verde	CPV	Final Demand	Household final consumption P.3h	
+Cape Verde	CPV	Final Demand	Non-profit institutions serving households P.3n	
+Cape Verde	CPV	Final Demand	Government final consumption P.3g	
+Cape Verde	CPV	Final Demand	Gross fixed capital formation P.51	
+Cape Verde	CPV	Final Demand	Changes in inventories P.52	
+Cape Verde	CPV	Final Demand	Acquisitions less disposals of valuables P.53	
+Cayman Islands	CYM	Final Demand	Household final consumption P.3h	
+Cayman Islands	CYM	Final Demand	Non-profit institutions serving households P.3n	
+Cayman Islands	CYM	Final Demand	Government final consumption P.3g	
+Cayman Islands	CYM	Final Demand	Gross fixed capital formation P.51	
+Cayman Islands	CYM	Final Demand	Changes in inventories P.52	
+Cayman Islands	CYM	Final Demand	Acquisitions less disposals of valuables P.53	
+Central African Republic	CAF	Final Demand	Household final consumption P.3h	
+Central African Republic	CAF	Final Demand	Non-profit institutions serving households P.3n	
+Central African Republic	CAF	Final Demand	Government final consumption P.3g	
+Central African Republic	CAF	Final Demand	Gross fixed capital formation P.51	
+Central African Republic	CAF	Final Demand	Changes in inventories P.52	
+Central African Republic	CAF	Final Demand	Acquisitions less disposals of valuables P.53	
+Chad	TCD	Final Demand	Household final consumption P.3h	
+Chad	TCD	Final Demand	Non-profit institutions serving households P.3n	
+Chad	TCD	Final Demand	Government final consumption P.3g	
+Chad	TCD	Final Demand	Gross fixed capital formation P.51	
+Chad	TCD	Final Demand	Changes in inventories P.52	
+Chad	TCD	Final Demand	Acquisitions less disposals of valuables P.53	
+Chile	CHL	Final Demand	Household final consumption P.3h	
+Chile	CHL	Final Demand	Non-profit institutions serving households P.3n	
+Chile	CHL	Final Demand	Government final consumption P.3g	
+Chile	CHL	Final Demand	Gross fixed capital formation P.51	
+Chile	CHL	Final Demand	Changes in inventories P.52	
+Chile	CHL	Final Demand	Acquisitions less disposals of valuables P.53	
+China	CHN	Final Demand	Household final consumption P.3h	
+China	CHN	Final Demand	Non-profit institutions serving households P.3n	
+China	CHN	Final Demand	Government final consumption P.3g	
+China	CHN	Final Demand	Gross fixed capital formation P.51	
+China	CHN	Final Demand	Changes in inventories P.52	
+China	CHN	Final Demand	Acquisitions less disposals of valuables P.53	
+Colombia	COL	Final Demand	Household final consumption P.3h	
+Colombia	COL	Final Demand	Non-profit institutions serving households P.3n	
+Colombia	COL	Final Demand	Government final consumption P.3g	
+Colombia	COL	Final Demand	Gross fixed capital formation P.51	
+Colombia	COL	Final Demand	Changes in inventories P.52	
+Colombia	COL	Final Demand	Acquisitions less disposals of valuables P.53	
+Congo	COG	Final Demand	Household final consumption P.3h	
+Congo	COG	Final Demand	Non-profit institutions serving households P.3n	
+Congo	COG	Final Demand	Government final consumption P.3g	
+Congo	COG	Final Demand	Gross fixed capital formation P.51	
+Congo	COG	Final Demand	Changes in inventories P.52	
+Congo	COG	Final Demand	Acquisitions less disposals of valuables P.53	
+Costa Rica	CRI	Final Demand	Household final consumption P.3h	
+Costa Rica	CRI	Final Demand	Non-profit institutions serving households P.3n	
+Costa Rica	CRI	Final Demand	Government final consumption P.3g	
+Costa Rica	CRI	Final Demand	Gross fixed capital formation P.51	
+Costa Rica	CRI	Final Demand	Changes in inventories P.52	
+Costa Rica	CRI	Final Demand	Acquisitions less disposals of valuables P.53	
+Croatia	HRV	Final Demand	Household final consumption P.3h	
+Croatia	HRV	Final Demand	Non-profit institutions serving households P.3n	
+Croatia	HRV	Final Demand	Government final consumption P.3g	
+Croatia	HRV	Final Demand	Gross fixed capital formation P.51	
+Croatia	HRV	Final Demand	Changes in inventories P.52	
+Croatia	HRV	Final Demand	Acquisitions less disposals of valuables P.53	
+Cuba	CUB	Final Demand	Household final consumption P.3h	
+Cuba	CUB	Final Demand	Non-profit institutions serving households P.3n	
+Cuba	CUB	Final Demand	Government final consumption P.3g	
+Cuba	CUB	Final Demand	Gross fixed capital formation P.51	
+Cuba	CUB	Final Demand	Changes in inventories P.52	
+Cuba	CUB	Final Demand	Acquisitions less disposals of valuables P.53	
+Cyprus	CYP	Final Demand	Household final consumption P.3h	
+Cyprus	CYP	Final Demand	Non-profit institutions serving households P.3n	
+Cyprus	CYP	Final Demand	Government final consumption P.3g	
+Cyprus	CYP	Final Demand	Gross fixed capital formation P.51	
+Cyprus	CYP	Final Demand	Changes in inventories P.52	
+Cyprus	CYP	Final Demand	Acquisitions less disposals of valuables P.53	
+Czech Republic	CZE	Final Demand	Household final consumption P.3h	
+Czech Republic	CZE	Final Demand	Non-profit institutions serving households P.3n	
+Czech Republic	CZE	Final Demand	Government final consumption P.3g	
+Czech Republic	CZE	Final Demand	Gross fixed capital formation P.51	
+Czech Republic	CZE	Final Demand	Changes in inventories P.52	
+Czech Republic	CZE	Final Demand	Acquisitions less disposals of valuables P.53	
+Cote dIvoire	CIV	Final Demand	Household final consumption P.3h	
+Cote dIvoire	CIV	Final Demand	Non-profit institutions serving households P.3n	
+Cote dIvoire	CIV	Final Demand	Government final consumption P.3g	
+Cote dIvoire	CIV	Final Demand	Gross fixed capital formation P.51	
+Cote dIvoire	CIV	Final Demand	Changes in inventories P.52	
+Cote dIvoire	CIV	Final Demand	Acquisitions less disposals of valuables P.53	
+North Korea	PRK	Final Demand	Household final consumption P.3h	
+North Korea	PRK	Final Demand	Non-profit institutions serving households P.3n	
+North Korea	PRK	Final Demand	Government final consumption P.3g	
+North Korea	PRK	Final Demand	Gross fixed capital formation P.51	
+North Korea	PRK	Final Demand	Changes in inventories P.52	
+North Korea	PRK	Final Demand	Acquisitions less disposals of valuables P.53	
+DR Congo	COD	Final Demand	Household final consumption P.3h	
+DR Congo	COD	Final Demand	Non-profit institutions serving households P.3n	
+DR Congo	COD	Final Demand	Government final consumption P.3g	
+DR Congo	COD	Final Demand	Gross fixed capital formation P.51	
+DR Congo	COD	Final Demand	Changes in inventories P.52	
+DR Congo	COD	Final Demand	Acquisitions less disposals of valuables P.53	
+Denmark	DNK	Final Demand	Household final consumption P.3h	
+Denmark	DNK	Final Demand	Non-profit institutions serving households P.3n	
+Denmark	DNK	Final Demand	Government final consumption P.3g	
+Denmark	DNK	Final Demand	Gross fixed capital formation P.51	
+Denmark	DNK	Final Demand	Changes in inventories P.52	
+Denmark	DNK	Final Demand	Acquisitions less disposals of valuables P.53	
+Djibouti	DJI	Final Demand	Household final consumption P.3h	
+Djibouti	DJI	Final Demand	Non-profit institutions serving households P.3n	
+Djibouti	DJI	Final Demand	Government final consumption P.3g	
+Djibouti	DJI	Final Demand	Gross fixed capital formation P.51	
+Djibouti	DJI	Final Demand	Changes in inventories P.52	
+Djibouti	DJI	Final Demand	Acquisitions less disposals of valuables P.53	
+Dominican Republic	DOM	Final Demand	Household final consumption P.3h	
+Dominican Republic	DOM	Final Demand	Non-profit institutions serving households P.3n	
+Dominican Republic	DOM	Final Demand	Government final consumption P.3g	
+Dominican Republic	DOM	Final Demand	Gross fixed capital formation P.51	
+Dominican Republic	DOM	Final Demand	Changes in inventories P.52	
+Dominican Republic	DOM	Final Demand	Acquisitions less disposals of valuables P.53	
+Ecuador	ECU	Final Demand	Household final consumption P.3h	
+Ecuador	ECU	Final Demand	Non-profit institutions serving households P.3n	
+Ecuador	ECU	Final Demand	Government final consumption P.3g	
+Ecuador	ECU	Final Demand	Gross fixed capital formation P.51	
+Ecuador	ECU	Final Demand	Changes in inventories P.52	
+Ecuador	ECU	Final Demand	Acquisitions less disposals of valuables P.53	
+Egypt	EGY	Final Demand	Household final consumption P.3h	
+Egypt	EGY	Final Demand	Non-profit institutions serving households P.3n	
+Egypt	EGY	Final Demand	Government final consumption P.3g	
+Egypt	EGY	Final Demand	Gross fixed capital formation P.51	
+Egypt	EGY	Final Demand	Changes in inventories P.52	
+Egypt	EGY	Final Demand	Acquisitions less disposals of valuables P.53	
+El Salvador	SLV	Final Demand	Household final consumption P.3h	
+El Salvador	SLV	Final Demand	Non-profit institutions serving households P.3n	
+El Salvador	SLV	Final Demand	Government final consumption P.3g	
+El Salvador	SLV	Final Demand	Gross fixed capital formation P.51	
+El Salvador	SLV	Final Demand	Changes in inventories P.52	
+El Salvador	SLV	Final Demand	Acquisitions less disposals of valuables P.53	
+Eritrea	ERI	Final Demand	Household final consumption P.3h	
+Eritrea	ERI	Final Demand	Non-profit institutions serving households P.3n	
+Eritrea	ERI	Final Demand	Government final consumption P.3g	
+Eritrea	ERI	Final Demand	Gross fixed capital formation P.51	
+Eritrea	ERI	Final Demand	Changes in inventories P.52	
+Eritrea	ERI	Final Demand	Acquisitions less disposals of valuables P.53	
+Estonia	EST	Final Demand	Household final consumption P.3h	
+Estonia	EST	Final Demand	Non-profit institutions serving households P.3n	
+Estonia	EST	Final Demand	Government final consumption P.3g	
+Estonia	EST	Final Demand	Gross fixed capital formation P.51	
+Estonia	EST	Final Demand	Changes in inventories P.52	
+Estonia	EST	Final Demand	Acquisitions less disposals of valuables P.53	
+Ethiopia	ETH	Final Demand	Household final consumption P.3h	
+Ethiopia	ETH	Final Demand	Non-profit institutions serving households P.3n	
+Ethiopia	ETH	Final Demand	Government final consumption P.3g	
+Ethiopia	ETH	Final Demand	Gross fixed capital formation P.51	
+Ethiopia	ETH	Final Demand	Changes in inventories P.52	
+Ethiopia	ETH	Final Demand	Acquisitions less disposals of valuables P.53	
+Fiji	FJI	Final Demand	Household final consumption P.3h	
+Fiji	FJI	Final Demand	Non-profit institutions serving households P.3n	
+Fiji	FJI	Final Demand	Government final consumption P.3g	
+Fiji	FJI	Final Demand	Gross fixed capital formation P.51	
+Fiji	FJI	Final Demand	Changes in inventories P.52	
+Fiji	FJI	Final Demand	Acquisitions less disposals of valuables P.53	
+Finland	FIN	Final Demand	Household final consumption P.3h	
+Finland	FIN	Final Demand	Non-profit institutions serving households P.3n	
+Finland	FIN	Final Demand	Government final consumption P.3g	
+Finland	FIN	Final Demand	Gross fixed capital formation P.51	
+Finland	FIN	Final Demand	Changes in inventories P.52	
+Finland	FIN	Final Demand	Acquisitions less disposals of valuables P.53	
+France	FRA	Final Demand	Household final consumption P.3h	
+France	FRA	Final Demand	Non-profit institutions serving households P.3n	
+France	FRA	Final Demand	Government final consumption P.3g	
+France	FRA	Final Demand	Gross fixed capital formation P.51	
+France	FRA	Final Demand	Changes in inventories P.52	
+France	FRA	Final Demand	Acquisitions less disposals of valuables P.53	
+French Polynesia	PYF	Final Demand	Household final consumption P.3h	
+French Polynesia	PYF	Final Demand	Non-profit institutions serving households P.3n	
+French Polynesia	PYF	Final Demand	Government final consumption P.3g	
+French Polynesia	PYF	Final Demand	Gross fixed capital formation P.51	
+French Polynesia	PYF	Final Demand	Changes in inventories P.52	
+French Polynesia	PYF	Final Demand	Acquisitions less disposals of valuables P.53	
+Gabon	GAB	Final Demand	Household final consumption P.3h	
+Gabon	GAB	Final Demand	Non-profit institutions serving households P.3n	
+Gabon	GAB	Final Demand	Government final consumption P.3g	
+Gabon	GAB	Final Demand	Gross fixed capital formation P.51	
+Gabon	GAB	Final Demand	Changes in inventories P.52	
+Gabon	GAB	Final Demand	Acquisitions less disposals of valuables P.53	
+Gambia	GMB	Final Demand	Household final consumption P.3h	
+Gambia	GMB	Final Demand	Non-profit institutions serving households P.3n	
+Gambia	GMB	Final Demand	Government final consumption P.3g	
+Gambia	GMB	Final Demand	Gross fixed capital formation P.51	
+Gambia	GMB	Final Demand	Changes in inventories P.52	
+Gambia	GMB	Final Demand	Acquisitions less disposals of valuables P.53	
+Georgia	GEO	Final Demand	Household final consumption P.3h	
+Georgia	GEO	Final Demand	Non-profit institutions serving households P.3n	
+Georgia	GEO	Final Demand	Government final consumption P.3g	
+Georgia	GEO	Final Demand	Gross fixed capital formation P.51	
+Georgia	GEO	Final Demand	Changes in inventories P.52	
+Georgia	GEO	Final Demand	Acquisitions less disposals of valuables P.53	
+Germany	DEU	Final Demand	Household final consumption P.3h	
+Germany	DEU	Final Demand	Non-profit institutions serving households P.3n	
+Germany	DEU	Final Demand	Government final consumption P.3g	
+Germany	DEU	Final Demand	Gross fixed capital formation P.51	
+Germany	DEU	Final Demand	Changes in inventories P.52	
+Germany	DEU	Final Demand	Acquisitions less disposals of valuables P.53	
+Ghana	GHA	Final Demand	Household final consumption P.3h	
+Ghana	GHA	Final Demand	Non-profit institutions serving households P.3n	
+Ghana	GHA	Final Demand	Government final consumption P.3g	
+Ghana	GHA	Final Demand	Gross fixed capital formation P.51	
+Ghana	GHA	Final Demand	Changes in inventories P.52	
+Ghana	GHA	Final Demand	Acquisitions less disposals of valuables P.53	
+Greece	GRC	Final Demand	Household final consumption P.3h	
+Greece	GRC	Final Demand	Non-profit institutions serving households P.3n	
+Greece	GRC	Final Demand	Government final consumption P.3g	
+Greece	GRC	Final Demand	Gross fixed capital formation P.51	
+Greece	GRC	Final Demand	Changes in inventories P.52	
+Greece	GRC	Final Demand	Acquisitions less disposals of valuables P.53	
+Greenland	GRL	Final Demand	Household final consumption P.3h	
+Greenland	GRL	Final Demand	Non-profit institutions serving households P.3n	
+Greenland	GRL	Final Demand	Government final consumption P.3g	
+Greenland	GRL	Final Demand	Gross fixed capital formation P.51	
+Greenland	GRL	Final Demand	Changes in inventories P.52	
+Greenland	GRL	Final Demand	Acquisitions less disposals of valuables P.53	
+Guatemala	GTM	Final Demand	Household final consumption P.3h	
+Guatemala	GTM	Final Demand	Non-profit institutions serving households P.3n	
+Guatemala	GTM	Final Demand	Government final consumption P.3g	
+Guatemala	GTM	Final Demand	Gross fixed capital formation P.51	
+Guatemala	GTM	Final Demand	Changes in inventories P.52	
+Guatemala	GTM	Final Demand	Acquisitions less disposals of valuables P.53	
+Guinea	GIN	Final Demand	Household final consumption P.3h	
+Guinea	GIN	Final Demand	Non-profit institutions serving households P.3n	
+Guinea	GIN	Final Demand	Government final consumption P.3g	
+Guinea	GIN	Final Demand	Gross fixed capital formation P.51	
+Guinea	GIN	Final Demand	Changes in inventories P.52	
+Guinea	GIN	Final Demand	Acquisitions less disposals of valuables P.53	
+Guyana	GUY	Final Demand	Household final consumption P.3h	
+Guyana	GUY	Final Demand	Non-profit institutions serving households P.3n	
+Guyana	GUY	Final Demand	Government final consumption P.3g	
+Guyana	GUY	Final Demand	Gross fixed capital formation P.51	
+Guyana	GUY	Final Demand	Changes in inventories P.52	
+Guyana	GUY	Final Demand	Acquisitions less disposals of valuables P.53	
+Haiti	HTI	Final Demand	Household final consumption P.3h	
+Haiti	HTI	Final Demand	Non-profit institutions serving households P.3n	
+Haiti	HTI	Final Demand	Government final consumption P.3g	
+Haiti	HTI	Final Demand	Gross fixed capital formation P.51	
+Haiti	HTI	Final Demand	Changes in inventories P.52	
+Haiti	HTI	Final Demand	Acquisitions less disposals of valuables P.53	
+Honduras	HND	Final Demand	Household final consumption P.3h	
+Honduras	HND	Final Demand	Non-profit institutions serving households P.3n	
+Honduras	HND	Final Demand	Government final consumption P.3g	
+Honduras	HND	Final Demand	Gross fixed capital formation P.51	
+Honduras	HND	Final Demand	Changes in inventories P.52	
+Honduras	HND	Final Demand	Acquisitions less disposals of valuables P.53	
+Hong Kong	HKG	Final Demand	Household final consumption P.3h	
+Hong Kong	HKG	Final Demand	Non-profit institutions serving households P.3n	
+Hong Kong	HKG	Final Demand	Government final consumption P.3g	
+Hong Kong	HKG	Final Demand	Gross fixed capital formation P.51	
+Hong Kong	HKG	Final Demand	Changes in inventories P.52	
+Hong Kong	HKG	Final Demand	Acquisitions less disposals of valuables P.53	
+Hungary	HUN	Final Demand	Household final consumption P.3h	
+Hungary	HUN	Final Demand	Non-profit institutions serving households P.3n	
+Hungary	HUN	Final Demand	Government final consumption P.3g	
+Hungary	HUN	Final Demand	Gross fixed capital formation P.51	
+Hungary	HUN	Final Demand	Changes in inventories P.52	
+Hungary	HUN	Final Demand	Acquisitions less disposals of valuables P.53	
+Iceland	ISL	Final Demand	Household final consumption P.3h	
+Iceland	ISL	Final Demand	Non-profit institutions serving households P.3n	
+Iceland	ISL	Final Demand	Government final consumption P.3g	
+Iceland	ISL	Final Demand	Gross fixed capital formation P.51	
+Iceland	ISL	Final Demand	Changes in inventories P.52	
+Iceland	ISL	Final Demand	Acquisitions less disposals of valuables P.53	
+India	IND	Final Demand	Household final consumption P.3h	
+India	IND	Final Demand	Non-profit institutions serving households P.3n	
+India	IND	Final Demand	Government final consumption P.3g	
+India	IND	Final Demand	Gross fixed capital formation P.51	
+India	IND	Final Demand	Changes in inventories P.52	
+India	IND	Final Demand	Acquisitions less disposals of valuables P.53	
+Indonesia	IDN	Final Demand	Household final consumption P.3h	
+Indonesia	IDN	Final Demand	Non-profit institutions serving households P.3n	
+Indonesia	IDN	Final Demand	Government final consumption P.3g	
+Indonesia	IDN	Final Demand	Gross fixed capital formation P.51	
+Indonesia	IDN	Final Demand	Changes in inventories P.52	
+Indonesia	IDN	Final Demand	Acquisitions less disposals of valuables P.53	
+Iran	IRN	Final Demand	Household final consumption P.3h	
+Iran	IRN	Final Demand	Non-profit institutions serving households P.3n	
+Iran	IRN	Final Demand	Government final consumption P.3g	
+Iran	IRN	Final Demand	Gross fixed capital formation P.51	
+Iran	IRN	Final Demand	Changes in inventories P.52	
+Iran	IRN	Final Demand	Acquisitions less disposals of valuables P.53	
+Iraq	IRQ	Final Demand	Household final consumption P.3h	
+Iraq	IRQ	Final Demand	Non-profit institutions serving households P.3n	
+Iraq	IRQ	Final Demand	Government final consumption P.3g	
+Iraq	IRQ	Final Demand	Gross fixed capital formation P.51	
+Iraq	IRQ	Final Demand	Changes in inventories P.52	
+Iraq	IRQ	Final Demand	Acquisitions less disposals of valuables P.53	
+Ireland	IRL	Final Demand	Household final consumption P.3h	
+Ireland	IRL	Final Demand	Non-profit institutions serving households P.3n	
+Ireland	IRL	Final Demand	Government final consumption P.3g	
+Ireland	IRL	Final Demand	Gross fixed capital formation P.51	
+Ireland	IRL	Final Demand	Changes in inventories P.52	
+Ireland	IRL	Final Demand	Acquisitions less disposals of valuables P.53	
+Israel	ISR	Final Demand	Household final consumption P.3h	
+Israel	ISR	Final Demand	Non-profit institutions serving households P.3n	
+Israel	ISR	Final Demand	Government final consumption P.3g	
+Israel	ISR	Final Demand	Gross fixed capital formation P.51	
+Israel	ISR	Final Demand	Changes in inventories P.52	
+Israel	ISR	Final Demand	Acquisitions less disposals of valuables P.53	
+Italy	ITA	Final Demand	Household final consumption P.3h	
+Italy	ITA	Final Demand	Non-profit institutions serving households P.3n	
+Italy	ITA	Final Demand	Government final consumption P.3g	
+Italy	ITA	Final Demand	Gross fixed capital formation P.51	
+Italy	ITA	Final Demand	Changes in inventories P.52	
+Italy	ITA	Final Demand	Acquisitions less disposals of valuables P.53	
+Jamaica	JAM	Final Demand	Household final consumption P.3h	
+Jamaica	JAM	Final Demand	Non-profit institutions serving households P.3n	
+Jamaica	JAM	Final Demand	Government final consumption P.3g	
+Jamaica	JAM	Final Demand	Gross fixed capital formation P.51	
+Jamaica	JAM	Final Demand	Changes in inventories P.52	
+Jamaica	JAM	Final Demand	Acquisitions less disposals of valuables P.53	
+Japan	JPN	Final Demand	Household final consumption P.3h	
+Japan	JPN	Final Demand	Non-profit institutions serving households P.3n	
+Japan	JPN	Final Demand	Government final consumption P.3g	
+Japan	JPN	Final Demand	Gross fixed capital formation P.51	
+Japan	JPN	Final Demand	Changes in inventories P.52	
+Japan	JPN	Final Demand	Acquisitions less disposals of valuables P.53	
+Jordan	JOR	Final Demand	Household final consumption P.3h	
+Jordan	JOR	Final Demand	Non-profit institutions serving households P.3n	
+Jordan	JOR	Final Demand	Government final consumption P.3g	
+Jordan	JOR	Final Demand	Gross fixed capital formation P.51	
+Jordan	JOR	Final Demand	Changes in inventories P.52	
+Jordan	JOR	Final Demand	Acquisitions less disposals of valuables P.53	
+Kazakhstan	KAZ	Final Demand	Household final consumption P.3h	
+Kazakhstan	KAZ	Final Demand	Non-profit institutions serving households P.3n	
+Kazakhstan	KAZ	Final Demand	Government final consumption P.3g	
+Kazakhstan	KAZ	Final Demand	Gross fixed capital formation P.51	
+Kazakhstan	KAZ	Final Demand	Changes in inventories P.52	
+Kazakhstan	KAZ	Final Demand	Acquisitions less disposals of valuables P.53	
+Kenya	KEN	Final Demand	Household final consumption P.3h	
+Kenya	KEN	Final Demand	Non-profit institutions serving households P.3n	
+Kenya	KEN	Final Demand	Government final consumption P.3g	
+Kenya	KEN	Final Demand	Gross fixed capital formation P.51	
+Kenya	KEN	Final Demand	Changes in inventories P.52	
+Kenya	KEN	Final Demand	Acquisitions less disposals of valuables P.53	
+Kuwait	KWT	Final Demand	Household final consumption P.3h	
+Kuwait	KWT	Final Demand	Non-profit institutions serving households P.3n	
+Kuwait	KWT	Final Demand	Government final consumption P.3g	
+Kuwait	KWT	Final Demand	Gross fixed capital formation P.51	
+Kuwait	KWT	Final Demand	Changes in inventories P.52	
+Kuwait	KWT	Final Demand	Acquisitions less disposals of valuables P.53	
+Kyrgyzstan	KGZ	Final Demand	Household final consumption P.3h	
+Kyrgyzstan	KGZ	Final Demand	Non-profit institutions serving households P.3n	
+Kyrgyzstan	KGZ	Final Demand	Government final consumption P.3g	
+Kyrgyzstan	KGZ	Final Demand	Gross fixed capital formation P.51	
+Kyrgyzstan	KGZ	Final Demand	Changes in inventories P.52	
+Kyrgyzstan	KGZ	Final Demand	Acquisitions less disposals of valuables P.53	
+Laos	LAO	Final Demand	Household final consumption P.3h	
+Laos	LAO	Final Demand	Non-profit institutions serving households P.3n	
+Laos	LAO	Final Demand	Government final consumption P.3g	
+Laos	LAO	Final Demand	Gross fixed capital formation P.51	
+Laos	LAO	Final Demand	Changes in inventories P.52	
+Laos	LAO	Final Demand	Acquisitions less disposals of valuables P.53	
+Latvia	LVA	Final Demand	Household final consumption P.3h	
+Latvia	LVA	Final Demand	Non-profit institutions serving households P.3n	
+Latvia	LVA	Final Demand	Government final consumption P.3g	
+Latvia	LVA	Final Demand	Gross fixed capital formation P.51	
+Latvia	LVA	Final Demand	Changes in inventories P.52	
+Latvia	LVA	Final Demand	Acquisitions less disposals of valuables P.53	
+Lebanon	LBN	Final Demand	Household final consumption P.3h	
+Lebanon	LBN	Final Demand	Non-profit institutions serving households P.3n	
+Lebanon	LBN	Final Demand	Government final consumption P.3g	
+Lebanon	LBN	Final Demand	Gross fixed capital formation P.51	
+Lebanon	LBN	Final Demand	Changes in inventories P.52	
+Lebanon	LBN	Final Demand	Acquisitions less disposals of valuables P.53	
+Lesotho	LSO	Final Demand	Household final consumption P.3h	
+Lesotho	LSO	Final Demand	Non-profit institutions serving households P.3n	
+Lesotho	LSO	Final Demand	Government final consumption P.3g	
+Lesotho	LSO	Final Demand	Gross fixed capital formation P.51	
+Lesotho	LSO	Final Demand	Changes in inventories P.52	
+Lesotho	LSO	Final Demand	Acquisitions less disposals of valuables P.53	
+Liberia	LBR	Final Demand	Household final consumption P.3h	
+Liberia	LBR	Final Demand	Non-profit institutions serving households P.3n	
+Liberia	LBR	Final Demand	Government final consumption P.3g	
+Liberia	LBR	Final Demand	Gross fixed capital formation P.51	
+Liberia	LBR	Final Demand	Changes in inventories P.52	
+Liberia	LBR	Final Demand	Acquisitions less disposals of valuables P.53	
+Libya	LBY	Final Demand	Household final consumption P.3h	
+Libya	LBY	Final Demand	Non-profit institutions serving households P.3n	
+Libya	LBY	Final Demand	Government final consumption P.3g	
+Libya	LBY	Final Demand	Gross fixed capital formation P.51	
+Libya	LBY	Final Demand	Changes in inventories P.52	
+Libya	LBY	Final Demand	Acquisitions less disposals of valuables P.53	
+Liechtenstein	LIE	Final Demand	Household final consumption P.3h	
+Liechtenstein	LIE	Final Demand	Non-profit institutions serving households P.3n	
+Liechtenstein	LIE	Final Demand	Government final consumption P.3g	
+Liechtenstein	LIE	Final Demand	Gross fixed capital formation P.51	
+Liechtenstein	LIE	Final Demand	Changes in inventories P.52	
+Liechtenstein	LIE	Final Demand	Acquisitions less disposals of valuables P.53	
+Lithuania	LTU	Final Demand	Household final consumption P.3h	
+Lithuania	LTU	Final Demand	Non-profit institutions serving households P.3n	
+Lithuania	LTU	Final Demand	Government final consumption P.3g	
+Lithuania	LTU	Final Demand	Gross fixed capital formation P.51	
+Lithuania	LTU	Final Demand	Changes in inventories P.52	
+Lithuania	LTU	Final Demand	Acquisitions less disposals of valuables P.53	
+Luxembourg	LUX	Final Demand	Household final consumption P.3h	
+Luxembourg	LUX	Final Demand	Non-profit institutions serving households P.3n	
+Luxembourg	LUX	Final Demand	Government final consumption P.3g	
+Luxembourg	LUX	Final Demand	Gross fixed capital formation P.51	
+Luxembourg	LUX	Final Demand	Changes in inventories P.52	
+Luxembourg	LUX	Final Demand	Acquisitions less disposals of valuables P.53	
+Macao SAR	MAC	Final Demand	Household final consumption P.3h	
+Macao SAR	MAC	Final Demand	Non-profit institutions serving households P.3n	
+Macao SAR	MAC	Final Demand	Government final consumption P.3g	
+Macao SAR	MAC	Final Demand	Gross fixed capital formation P.51	
+Macao SAR	MAC	Final Demand	Changes in inventories P.52	
+Macao SAR	MAC	Final Demand	Acquisitions less disposals of valuables P.53	
+Madagascar	MDG	Final Demand	Household final consumption P.3h	
+Madagascar	MDG	Final Demand	Non-profit institutions serving households P.3n	
+Madagascar	MDG	Final Demand	Government final consumption P.3g	
+Madagascar	MDG	Final Demand	Gross fixed capital formation P.51	
+Madagascar	MDG	Final Demand	Changes in inventories P.52	
+Madagascar	MDG	Final Demand	Acquisitions less disposals of valuables P.53	
+Malawi	MWI	Final Demand	Household final consumption P.3h	
+Malawi	MWI	Final Demand	Non-profit institutions serving households P.3n	
+Malawi	MWI	Final Demand	Government final consumption P.3g	
+Malawi	MWI	Final Demand	Gross fixed capital formation P.51	
+Malawi	MWI	Final Demand	Changes in inventories P.52	
+Malawi	MWI	Final Demand	Acquisitions less disposals of valuables P.53	
+Malaysia	MYS	Final Demand	Household final consumption P.3h	
+Malaysia	MYS	Final Demand	Non-profit institutions serving households P.3n	
+Malaysia	MYS	Final Demand	Government final consumption P.3g	
+Malaysia	MYS	Final Demand	Gross fixed capital formation P.51	
+Malaysia	MYS	Final Demand	Changes in inventories P.52	
+Malaysia	MYS	Final Demand	Acquisitions less disposals of valuables P.53	
+Maldives	MDV	Final Demand	Household final consumption P.3h	
+Maldives	MDV	Final Demand	Non-profit institutions serving households P.3n	
+Maldives	MDV	Final Demand	Government final consumption P.3g	
+Maldives	MDV	Final Demand	Gross fixed capital formation P.51	
+Maldives	MDV	Final Demand	Changes in inventories P.52	
+Maldives	MDV	Final Demand	Acquisitions less disposals of valuables P.53	
+Mali	MLI	Final Demand	Household final consumption P.3h	
+Mali	MLI	Final Demand	Non-profit institutions serving households P.3n	
+Mali	MLI	Final Demand	Government final consumption P.3g	
+Mali	MLI	Final Demand	Gross fixed capital formation P.51	
+Mali	MLI	Final Demand	Changes in inventories P.52	
+Mali	MLI	Final Demand	Acquisitions less disposals of valuables P.53	
+Malta	MLT	Final Demand	Household final consumption P.3h	
+Malta	MLT	Final Demand	Non-profit institutions serving households P.3n	
+Malta	MLT	Final Demand	Government final consumption P.3g	
+Malta	MLT	Final Demand	Gross fixed capital formation P.51	
+Malta	MLT	Final Demand	Changes in inventories P.52	
+Malta	MLT	Final Demand	Acquisitions less disposals of valuables P.53	
+Mauritania	MRT	Final Demand	Household final consumption P.3h	
+Mauritania	MRT	Final Demand	Non-profit institutions serving households P.3n	
+Mauritania	MRT	Final Demand	Government final consumption P.3g	
+Mauritania	MRT	Final Demand	Gross fixed capital formation P.51	
+Mauritania	MRT	Final Demand	Changes in inventories P.52	
+Mauritania	MRT	Final Demand	Acquisitions less disposals of valuables P.53	
+Mauritius	MUS	Final Demand	Household final consumption P.3h	
+Mauritius	MUS	Final Demand	Non-profit institutions serving households P.3n	
+Mauritius	MUS	Final Demand	Government final consumption P.3g	
+Mauritius	MUS	Final Demand	Gross fixed capital formation P.51	
+Mauritius	MUS	Final Demand	Changes in inventories P.52	
+Mauritius	MUS	Final Demand	Acquisitions less disposals of valuables P.53	
+Mexico	MEX	Final Demand	Household final consumption P.3h	
+Mexico	MEX	Final Demand	Non-profit institutions serving households P.3n	
+Mexico	MEX	Final Demand	Government final consumption P.3g	
+Mexico	MEX	Final Demand	Gross fixed capital formation P.51	
+Mexico	MEX	Final Demand	Changes in inventories P.52	
+Mexico	MEX	Final Demand	Acquisitions less disposals of valuables P.53	
+Monaco	MCO	Final Demand	Household final consumption P.3h	
+Monaco	MCO	Final Demand	Non-profit institutions serving households P.3n	
+Monaco	MCO	Final Demand	Government final consumption P.3g	
+Monaco	MCO	Final Demand	Gross fixed capital formation P.51	
+Monaco	MCO	Final Demand	Changes in inventories P.52	
+Monaco	MCO	Final Demand	Acquisitions less disposals of valuables P.53	
+Mongolia	MNG	Final Demand	Household final consumption P.3h	
+Mongolia	MNG	Final Demand	Non-profit institutions serving households P.3n	
+Mongolia	MNG	Final Demand	Government final consumption P.3g	
+Mongolia	MNG	Final Demand	Gross fixed capital formation P.51	
+Mongolia	MNG	Final Demand	Changes in inventories P.52	
+Mongolia	MNG	Final Demand	Acquisitions less disposals of valuables P.53	
+Montenegro	MNE	Final Demand	Household final consumption P.3h	
+Montenegro	MNE	Final Demand	Non-profit institutions serving households P.3n	
+Montenegro	MNE	Final Demand	Government final consumption P.3g	
+Montenegro	MNE	Final Demand	Gross fixed capital formation P.51	
+Montenegro	MNE	Final Demand	Changes in inventories P.52	
+Montenegro	MNE	Final Demand	Acquisitions less disposals of valuables P.53	
+Morocco	MAR	Final Demand	Household final consumption P.3h	
+Morocco	MAR	Final Demand	Non-profit institutions serving households P.3n	
+Morocco	MAR	Final Demand	Government final consumption P.3g	
+Morocco	MAR	Final Demand	Gross fixed capital formation P.51	
+Morocco	MAR	Final Demand	Changes in inventories P.52	
+Morocco	MAR	Final Demand	Acquisitions less disposals of valuables P.53	
+Mozambique	MOZ	Final Demand	Household final consumption P.3h	
+Mozambique	MOZ	Final Demand	Non-profit institutions serving households P.3n	
+Mozambique	MOZ	Final Demand	Government final consumption P.3g	
+Mozambique	MOZ	Final Demand	Gross fixed capital formation P.51	
+Mozambique	MOZ	Final Demand	Changes in inventories P.52	
+Mozambique	MOZ	Final Demand	Acquisitions less disposals of valuables P.53	
+Myanmar	MMR	Final Demand	Household final consumption P.3h	
+Myanmar	MMR	Final Demand	Non-profit institutions serving households P.3n	
+Myanmar	MMR	Final Demand	Government final consumption P.3g	
+Myanmar	MMR	Final Demand	Gross fixed capital formation P.51	
+Myanmar	MMR	Final Demand	Changes in inventories P.52	
+Myanmar	MMR	Final Demand	Acquisitions less disposals of valuables P.53	
+Namibia	NAM	Final Demand	Household final consumption P.3h	
+Namibia	NAM	Final Demand	Non-profit institutions serving households P.3n	
+Namibia	NAM	Final Demand	Government final consumption P.3g	
+Namibia	NAM	Final Demand	Gross fixed capital formation P.51	
+Namibia	NAM	Final Demand	Changes in inventories P.52	
+Namibia	NAM	Final Demand	Acquisitions less disposals of valuables P.53	
+Nepal	NPL	Final Demand	Household final consumption P.3h	
+Nepal	NPL	Final Demand	Non-profit institutions serving households P.3n	
+Nepal	NPL	Final Demand	Government final consumption P.3g	
+Nepal	NPL	Final Demand	Gross fixed capital formation P.51	
+Nepal	NPL	Final Demand	Changes in inventories P.52	
+Nepal	NPL	Final Demand	Acquisitions less disposals of valuables P.53	
+Netherlands	NLD	Final Demand	Household final consumption P.3h	
+Netherlands	NLD	Final Demand	Non-profit institutions serving households P.3n	
+Netherlands	NLD	Final Demand	Government final consumption P.3g	
+Netherlands	NLD	Final Demand	Gross fixed capital formation P.51	
+Netherlands	NLD	Final Demand	Changes in inventories P.52	
+Netherlands	NLD	Final Demand	Acquisitions less disposals of valuables P.53	
+Netherlands Antilles	ANT	Final Demand	Household final consumption P.3h	
+Netherlands Antilles	ANT	Final Demand	Non-profit institutions serving households P.3n	
+Netherlands Antilles	ANT	Final Demand	Government final consumption P.3g	
+Netherlands Antilles	ANT	Final Demand	Gross fixed capital formation P.51	
+Netherlands Antilles	ANT	Final Demand	Changes in inventories P.52	
+Netherlands Antilles	ANT	Final Demand	Acquisitions less disposals of valuables P.53	
+New Caledonia	NCL	Final Demand	Household final consumption P.3h	
+New Caledonia	NCL	Final Demand	Non-profit institutions serving households P.3n	
+New Caledonia	NCL	Final Demand	Government final consumption P.3g	
+New Caledonia	NCL	Final Demand	Gross fixed capital formation P.51	
+New Caledonia	NCL	Final Demand	Changes in inventories P.52	
+New Caledonia	NCL	Final Demand	Acquisitions less disposals of valuables P.53	
+New Zealand	NZL	Final Demand	Household final consumption P.3h	
+New Zealand	NZL	Final Demand	Non-profit institutions serving households P.3n	
+New Zealand	NZL	Final Demand	Government final consumption P.3g	
+New Zealand	NZL	Final Demand	Gross fixed capital formation P.51	
+New Zealand	NZL	Final Demand	Changes in inventories P.52	
+New Zealand	NZL	Final Demand	Acquisitions less disposals of valuables P.53	
+Nicaragua	NIC	Final Demand	Household final consumption P.3h	
+Nicaragua	NIC	Final Demand	Non-profit institutions serving households P.3n	
+Nicaragua	NIC	Final Demand	Government final consumption P.3g	
+Nicaragua	NIC	Final Demand	Gross fixed capital formation P.51	
+Nicaragua	NIC	Final Demand	Changes in inventories P.52	
+Nicaragua	NIC	Final Demand	Acquisitions less disposals of valuables P.53	
+Niger	NER	Final Demand	Household final consumption P.3h	
+Niger	NER	Final Demand	Non-profit institutions serving households P.3n	
+Niger	NER	Final Demand	Government final consumption P.3g	
+Niger	NER	Final Demand	Gross fixed capital formation P.51	
+Niger	NER	Final Demand	Changes in inventories P.52	
+Niger	NER	Final Demand	Acquisitions less disposals of valuables P.53	
+Nigeria	NGA	Final Demand	Household final consumption P.3h	
+Nigeria	NGA	Final Demand	Non-profit institutions serving households P.3n	
+Nigeria	NGA	Final Demand	Government final consumption P.3g	
+Nigeria	NGA	Final Demand	Gross fixed capital formation P.51	
+Nigeria	NGA	Final Demand	Changes in inventories P.52	
+Nigeria	NGA	Final Demand	Acquisitions less disposals of valuables P.53	
+Norway	NOR	Final Demand	Household final consumption P.3h	
+Norway	NOR	Final Demand	Non-profit institutions serving households P.3n	
+Norway	NOR	Final Demand	Government final consumption P.3g	
+Norway	NOR	Final Demand	Gross fixed capital formation P.51	
+Norway	NOR	Final Demand	Changes in inventories P.52	
+Norway	NOR	Final Demand	Acquisitions less disposals of valuables P.53	
+Gaza Strip	PSE	Final Demand	Household final consumption P.3h	
+Gaza Strip	PSE	Final Demand	Non-profit institutions serving households P.3n	
+Gaza Strip	PSE	Final Demand	Government final consumption P.3g	
+Gaza Strip	PSE	Final Demand	Gross fixed capital formation P.51	
+Gaza Strip	PSE	Final Demand	Changes in inventories P.52	
+Gaza Strip	PSE	Final Demand	Acquisitions less disposals of valuables P.53	
+Oman	OMN	Final Demand	Household final consumption P.3h	
+Oman	OMN	Final Demand	Non-profit institutions serving households P.3n	
+Oman	OMN	Final Demand	Government final consumption P.3g	
+Oman	OMN	Final Demand	Gross fixed capital formation P.51	
+Oman	OMN	Final Demand	Changes in inventories P.52	
+Oman	OMN	Final Demand	Acquisitions less disposals of valuables P.53	
+Pakistan	PAK	Final Demand	Household final consumption P.3h	
+Pakistan	PAK	Final Demand	Non-profit institutions serving households P.3n	
+Pakistan	PAK	Final Demand	Government final consumption P.3g	
+Pakistan	PAK	Final Demand	Gross fixed capital formation P.51	
+Pakistan	PAK	Final Demand	Changes in inventories P.52	
+Pakistan	PAK	Final Demand	Acquisitions less disposals of valuables P.53	
+Panama	PAN	Final Demand	Household final consumption P.3h	
+Panama	PAN	Final Demand	Non-profit institutions serving households P.3n	
+Panama	PAN	Final Demand	Government final consumption P.3g	
+Panama	PAN	Final Demand	Gross fixed capital formation P.51	
+Panama	PAN	Final Demand	Changes in inventories P.52	
+Panama	PAN	Final Demand	Acquisitions less disposals of valuables P.53	
+Papua New Guinea	PNG	Final Demand	Household final consumption P.3h	
+Papua New Guinea	PNG	Final Demand	Non-profit institutions serving households P.3n	
+Papua New Guinea	PNG	Final Demand	Government final consumption P.3g	
+Papua New Guinea	PNG	Final Demand	Gross fixed capital formation P.51	
+Papua New Guinea	PNG	Final Demand	Changes in inventories P.52	
+Papua New Guinea	PNG	Final Demand	Acquisitions less disposals of valuables P.53	
+Paraguay	PRY	Final Demand	Household final consumption P.3h	
+Paraguay	PRY	Final Demand	Non-profit institutions serving households P.3n	
+Paraguay	PRY	Final Demand	Government final consumption P.3g	
+Paraguay	PRY	Final Demand	Gross fixed capital formation P.51	
+Paraguay	PRY	Final Demand	Changes in inventories P.52	
+Paraguay	PRY	Final Demand	Acquisitions less disposals of valuables P.53	
+Peru	PER	Final Demand	Household final consumption P.3h	
+Peru	PER	Final Demand	Non-profit institutions serving households P.3n	
+Peru	PER	Final Demand	Government final consumption P.3g	
+Peru	PER	Final Demand	Gross fixed capital formation P.51	
+Peru	PER	Final Demand	Changes in inventories P.52	
+Peru	PER	Final Demand	Acquisitions less disposals of valuables P.53	
+Philippines	PHL	Final Demand	Household final consumption P.3h	
+Philippines	PHL	Final Demand	Non-profit institutions serving households P.3n	
+Philippines	PHL	Final Demand	Government final consumption P.3g	
+Philippines	PHL	Final Demand	Gross fixed capital formation P.51	
+Philippines	PHL	Final Demand	Changes in inventories P.52	
+Philippines	PHL	Final Demand	Acquisitions less disposals of valuables P.53	
+Poland	POL	Final Demand	Household final consumption P.3h	
+Poland	POL	Final Demand	Non-profit institutions serving households P.3n	
+Poland	POL	Final Demand	Government final consumption P.3g	
+Poland	POL	Final Demand	Gross fixed capital formation P.51	
+Poland	POL	Final Demand	Changes in inventories P.52	
+Poland	POL	Final Demand	Acquisitions less disposals of valuables P.53	
+Portugal	PRT	Final Demand	Household final consumption P.3h	
+Portugal	PRT	Final Demand	Non-profit institutions serving households P.3n	
+Portugal	PRT	Final Demand	Government final consumption P.3g	
+Portugal	PRT	Final Demand	Gross fixed capital formation P.51	
+Portugal	PRT	Final Demand	Changes in inventories P.52	
+Portugal	PRT	Final Demand	Acquisitions less disposals of valuables P.53	
+Qatar	QAT	Final Demand	Household final consumption P.3h	
+Qatar	QAT	Final Demand	Non-profit institutions serving households P.3n	
+Qatar	QAT	Final Demand	Government final consumption P.3g	
+Qatar	QAT	Final Demand	Gross fixed capital formation P.51	
+Qatar	QAT	Final Demand	Changes in inventories P.52	
+Qatar	QAT	Final Demand	Acquisitions less disposals of valuables P.53	
+South Korea	KOR	Final Demand	Household final consumption P.3h	
+South Korea	KOR	Final Demand	Non-profit institutions serving households P.3n	
+South Korea	KOR	Final Demand	Government final consumption P.3g	
+South Korea	KOR	Final Demand	Gross fixed capital formation P.51	
+South Korea	KOR	Final Demand	Changes in inventories P.52	
+South Korea	KOR	Final Demand	Acquisitions less disposals of valuables P.53	
+Moldova	MDA	Final Demand	Household final consumption P.3h	
+Moldova	MDA	Final Demand	Non-profit institutions serving households P.3n	
+Moldova	MDA	Final Demand	Government final consumption P.3g	
+Moldova	MDA	Final Demand	Gross fixed capital formation P.51	
+Moldova	MDA	Final Demand	Changes in inventories P.52	
+Moldova	MDA	Final Demand	Acquisitions less disposals of valuables P.53	
+Romania	ROU	Final Demand	Household final consumption P.3h	
+Romania	ROU	Final Demand	Non-profit institutions serving households P.3n	
+Romania	ROU	Final Demand	Government final consumption P.3g	
+Romania	ROU	Final Demand	Gross fixed capital formation P.51	
+Romania	ROU	Final Demand	Changes in inventories P.52	
+Romania	ROU	Final Demand	Acquisitions less disposals of valuables P.53	
+Russia	RUS	Final Demand	Household final consumption P.3h	
+Russia	RUS	Final Demand	Non-profit institutions serving households P.3n	
+Russia	RUS	Final Demand	Government final consumption P.3g	
+Russia	RUS	Final Demand	Gross fixed capital formation P.51	
+Russia	RUS	Final Demand	Changes in inventories P.52	
+Russia	RUS	Final Demand	Acquisitions less disposals of valuables P.53	
+Rwanda	RWA	Final Demand	Household final consumption P.3h	
+Rwanda	RWA	Final Demand	Non-profit institutions serving households P.3n	
+Rwanda	RWA	Final Demand	Government final consumption P.3g	
+Rwanda	RWA	Final Demand	Gross fixed capital formation P.51	
+Rwanda	RWA	Final Demand	Changes in inventories P.52	
+Rwanda	RWA	Final Demand	Acquisitions less disposals of valuables P.53	
+Samoa	WSM	Final Demand	Household final consumption P.3h	
+Samoa	WSM	Final Demand	Non-profit institutions serving households P.3n	
+Samoa	WSM	Final Demand	Government final consumption P.3g	
+Samoa	WSM	Final Demand	Gross fixed capital formation P.51	
+Samoa	WSM	Final Demand	Changes in inventories P.52	
+Samoa	WSM	Final Demand	Acquisitions less disposals of valuables P.53	
+San Marino	SMR	Final Demand	Household final consumption P.3h	
+San Marino	SMR	Final Demand	Non-profit institutions serving households P.3n	
+San Marino	SMR	Final Demand	Government final consumption P.3g	
+San Marino	SMR	Final Demand	Gross fixed capital formation P.51	
+San Marino	SMR	Final Demand	Changes in inventories P.52	
+San Marino	SMR	Final Demand	Acquisitions less disposals of valuables P.53	
+Sao Tome and Principe	STP	Final Demand	Household final consumption P.3h	
+Sao Tome and Principe	STP	Final Demand	Non-profit institutions serving households P.3n	
+Sao Tome and Principe	STP	Final Demand	Government final consumption P.3g	
+Sao Tome and Principe	STP	Final Demand	Gross fixed capital formation P.51	
+Sao Tome and Principe	STP	Final Demand	Changes in inventories P.52	
+Sao Tome and Principe	STP	Final Demand	Acquisitions less disposals of valuables P.53	
+Saudi Arabia	SAU	Final Demand	Household final consumption P.3h	
+Saudi Arabia	SAU	Final Demand	Non-profit institutions serving households P.3n	
+Saudi Arabia	SAU	Final Demand	Government final consumption P.3g	
+Saudi Arabia	SAU	Final Demand	Gross fixed capital formation P.51	
+Saudi Arabia	SAU	Final Demand	Changes in inventories P.52	
+Saudi Arabia	SAU	Final Demand	Acquisitions less disposals of valuables P.53	
+Senegal	SEN	Final Demand	Household final consumption P.3h	
+Senegal	SEN	Final Demand	Non-profit institutions serving households P.3n	
+Senegal	SEN	Final Demand	Government final consumption P.3g	
+Senegal	SEN	Final Demand	Gross fixed capital formation P.51	
+Senegal	SEN	Final Demand	Changes in inventories P.52	
+Senegal	SEN	Final Demand	Acquisitions less disposals of valuables P.53	
+Serbia	SRB	Final Demand	Household final consumption P.3h	
+Serbia	SRB	Final Demand	Non-profit institutions serving households P.3n	
+Serbia	SRB	Final Demand	Government final consumption P.3g	
+Serbia	SRB	Final Demand	Gross fixed capital formation P.51	
+Serbia	SRB	Final Demand	Changes in inventories P.52	
+Serbia	SRB	Final Demand	Acquisitions less disposals of valuables P.53	
+Seychelles	SYC	Final Demand	Household final consumption P.3h	
+Seychelles	SYC	Final Demand	Non-profit institutions serving households P.3n	
+Seychelles	SYC	Final Demand	Government final consumption P.3g	
+Seychelles	SYC	Final Demand	Gross fixed capital formation P.51	
+Seychelles	SYC	Final Demand	Changes in inventories P.52	
+Seychelles	SYC	Final Demand	Acquisitions less disposals of valuables P.53	
+Sierra Leone	SLE	Final Demand	Household final consumption P.3h	
+Sierra Leone	SLE	Final Demand	Non-profit institutions serving households P.3n	
+Sierra Leone	SLE	Final Demand	Government final consumption P.3g	
+Sierra Leone	SLE	Final Demand	Gross fixed capital formation P.51	
+Sierra Leone	SLE	Final Demand	Changes in inventories P.52	
+Sierra Leone	SLE	Final Demand	Acquisitions less disposals of valuables P.53	
+Singapore	SGP	Final Demand	Household final consumption P.3h	
+Singapore	SGP	Final Demand	Non-profit institutions serving households P.3n	
+Singapore	SGP	Final Demand	Government final consumption P.3g	
+Singapore	SGP	Final Demand	Gross fixed capital formation P.51	
+Singapore	SGP	Final Demand	Changes in inventories P.52	
+Singapore	SGP	Final Demand	Acquisitions less disposals of valuables P.53	
+Slovakia	SVK	Final Demand	Household final consumption P.3h	
+Slovakia	SVK	Final Demand	Non-profit institutions serving households P.3n	
+Slovakia	SVK	Final Demand	Government final consumption P.3g	
+Slovakia	SVK	Final Demand	Gross fixed capital formation P.51	
+Slovakia	SVK	Final Demand	Changes in inventories P.52	
+Slovakia	SVK	Final Demand	Acquisitions less disposals of valuables P.53	
+Slovenia	SVN	Final Demand	Household final consumption P.3h	
+Slovenia	SVN	Final Demand	Non-profit institutions serving households P.3n	
+Slovenia	SVN	Final Demand	Government final consumption P.3g	
+Slovenia	SVN	Final Demand	Gross fixed capital formation P.51	
+Slovenia	SVN	Final Demand	Changes in inventories P.52	
+Slovenia	SVN	Final Demand	Acquisitions less disposals of valuables P.53	
+Somalia	SOM	Final Demand	Household final consumption P.3h	
+Somalia	SOM	Final Demand	Non-profit institutions serving households P.3n	
+Somalia	SOM	Final Demand	Government final consumption P.3g	
+Somalia	SOM	Final Demand	Gross fixed capital formation P.51	
+Somalia	SOM	Final Demand	Changes in inventories P.52	
+Somalia	SOM	Final Demand	Acquisitions less disposals of valuables P.53	
+South Africa	ZAF	Final Demand	Household final consumption P.3h	
+South Africa	ZAF	Final Demand	Non-profit institutions serving households P.3n	
+South Africa	ZAF	Final Demand	Government final consumption P.3g	
+South Africa	ZAF	Final Demand	Gross fixed capital formation P.51	
+South Africa	ZAF	Final Demand	Changes in inventories P.52	
+South Africa	ZAF	Final Demand	Acquisitions less disposals of valuables P.53	
+South Sudan	SDS	Final Demand	Household final consumption P.3h	
+South Sudan	SDS	Final Demand	Non-profit institutions serving households P.3n	
+South Sudan	SDS	Final Demand	Government final consumption P.3g	
+South Sudan	SDS	Final Demand	Gross fixed capital formation P.51	
+South Sudan	SDS	Final Demand	Changes in inventories P.52	
+South Sudan	SDS	Final Demand	Acquisitions less disposals of valuables P.53	
+Spain	ESP	Final Demand	Household final consumption P.3h	
+Spain	ESP	Final Demand	Non-profit institutions serving households P.3n	
+Spain	ESP	Final Demand	Government final consumption P.3g	
+Spain	ESP	Final Demand	Gross fixed capital formation P.51	
+Spain	ESP	Final Demand	Changes in inventories P.52	
+Spain	ESP	Final Demand	Acquisitions less disposals of valuables P.53	
+Sri Lanka	LKA	Final Demand	Household final consumption P.3h	
+Sri Lanka	LKA	Final Demand	Non-profit institutions serving households P.3n	
+Sri Lanka	LKA	Final Demand	Government final consumption P.3g	
+Sri Lanka	LKA	Final Demand	Gross fixed capital formation P.51	
+Sri Lanka	LKA	Final Demand	Changes in inventories P.52	
+Sri Lanka	LKA	Final Demand	Acquisitions less disposals of valuables P.53	
+Sudan	SUD	Final Demand	Household final consumption P.3h	
+Sudan	SUD	Final Demand	Non-profit institutions serving households P.3n	
+Sudan	SUD	Final Demand	Government final consumption P.3g	
+Sudan	SUD	Final Demand	Gross fixed capital formation P.51	
+Sudan	SUD	Final Demand	Changes in inventories P.52	
+Sudan	SUD	Final Demand	Acquisitions less disposals of valuables P.53	
+Suriname	SUR	Final Demand	Household final consumption P.3h	
+Suriname	SUR	Final Demand	Non-profit institutions serving households P.3n	
+Suriname	SUR	Final Demand	Government final consumption P.3g	
+Suriname	SUR	Final Demand	Gross fixed capital formation P.51	
+Suriname	SUR	Final Demand	Changes in inventories P.52	
+Suriname	SUR	Final Demand	Acquisitions less disposals of valuables P.53	
+Swaziland	SWZ	Final Demand	Household final consumption P.3h	
+Swaziland	SWZ	Final Demand	Non-profit institutions serving households P.3n	
+Swaziland	SWZ	Final Demand	Government final consumption P.3g	
+Swaziland	SWZ	Final Demand	Gross fixed capital formation P.51	
+Swaziland	SWZ	Final Demand	Changes in inventories P.52	
+Swaziland	SWZ	Final Demand	Acquisitions less disposals of valuables P.53	
+Sweden	SWE	Final Demand	Household final consumption P.3h	
+Sweden	SWE	Final Demand	Non-profit institutions serving households P.3n	
+Sweden	SWE	Final Demand	Government final consumption P.3g	
+Sweden	SWE	Final Demand	Gross fixed capital formation P.51	
+Sweden	SWE	Final Demand	Changes in inventories P.52	
+Sweden	SWE	Final Demand	Acquisitions less disposals of valuables P.53	
+Switzerland	CHE	Final Demand	Household final consumption P.3h	
+Switzerland	CHE	Final Demand	Non-profit institutions serving households P.3n	
+Switzerland	CHE	Final Demand	Government final consumption P.3g	
+Switzerland	CHE	Final Demand	Gross fixed capital formation P.51	
+Switzerland	CHE	Final Demand	Changes in inventories P.52	
+Switzerland	CHE	Final Demand	Acquisitions less disposals of valuables P.53	
+Syria	SYR	Final Demand	Household final consumption P.3h	
+Syria	SYR	Final Demand	Non-profit institutions serving households P.3n	
+Syria	SYR	Final Demand	Government final consumption P.3g	
+Syria	SYR	Final Demand	Gross fixed capital formation P.51	
+Syria	SYR	Final Demand	Changes in inventories P.52	
+Syria	SYR	Final Demand	Acquisitions less disposals of valuables P.53	
+Taiwan	TWN	Final Demand	Household final consumption P.3h	
+Taiwan	TWN	Final Demand	Non-profit institutions serving households P.3n	
+Taiwan	TWN	Final Demand	Government final consumption P.3g	
+Taiwan	TWN	Final Demand	Gross fixed capital formation P.51	
+Taiwan	TWN	Final Demand	Changes in inventories P.52	
+Taiwan	TWN	Final Demand	Acquisitions less disposals of valuables P.53	
+Tajikistan	TJK	Final Demand	Household final consumption P.3h	
+Tajikistan	TJK	Final Demand	Non-profit institutions serving households P.3n	
+Tajikistan	TJK	Final Demand	Government final consumption P.3g	
+Tajikistan	TJK	Final Demand	Gross fixed capital formation P.51	
+Tajikistan	TJK	Final Demand	Changes in inventories P.52	
+Tajikistan	TJK	Final Demand	Acquisitions less disposals of valuables P.53	
+Thailand	THA	Final Demand	Household final consumption P.3h	
+Thailand	THA	Final Demand	Non-profit institutions serving households P.3n	
+Thailand	THA	Final Demand	Government final consumption P.3g	
+Thailand	THA	Final Demand	Gross fixed capital formation P.51	
+Thailand	THA	Final Demand	Changes in inventories P.52	
+Thailand	THA	Final Demand	Acquisitions less disposals of valuables P.53	
+TFYR Macedonia	MKD	Final Demand	Household final consumption P.3h	
+TFYR Macedonia	MKD	Final Demand	Non-profit institutions serving households P.3n	
+TFYR Macedonia	MKD	Final Demand	Government final consumption P.3g	
+TFYR Macedonia	MKD	Final Demand	Gross fixed capital formation P.51	
+TFYR Macedonia	MKD	Final Demand	Changes in inventories P.52	
+TFYR Macedonia	MKD	Final Demand	Acquisitions less disposals of valuables P.53	
+Togo	TGO	Final Demand	Household final consumption P.3h	
+Togo	TGO	Final Demand	Non-profit institutions serving households P.3n	
+Togo	TGO	Final Demand	Government final consumption P.3g	
+Togo	TGO	Final Demand	Gross fixed capital formation P.51	
+Togo	TGO	Final Demand	Changes in inventories P.52	
+Togo	TGO	Final Demand	Acquisitions less disposals of valuables P.53	
+Trinidad and Tobago	TTO	Final Demand	Household final consumption P.3h	
+Trinidad and Tobago	TTO	Final Demand	Non-profit institutions serving households P.3n	
+Trinidad and Tobago	TTO	Final Demand	Government final consumption P.3g	
+Trinidad and Tobago	TTO	Final Demand	Gross fixed capital formation P.51	
+Trinidad and Tobago	TTO	Final Demand	Changes in inventories P.52	
+Trinidad and Tobago	TTO	Final Demand	Acquisitions less disposals of valuables P.53	
+Tunisia	TUN	Final Demand	Household final consumption P.3h	
+Tunisia	TUN	Final Demand	Non-profit institutions serving households P.3n	
+Tunisia	TUN	Final Demand	Government final consumption P.3g	
+Tunisia	TUN	Final Demand	Gross fixed capital formation P.51	
+Tunisia	TUN	Final Demand	Changes in inventories P.52	
+Tunisia	TUN	Final Demand	Acquisitions less disposals of valuables P.53	
+Turkey	TUR	Final Demand	Household final consumption P.3h	
+Turkey	TUR	Final Demand	Non-profit institutions serving households P.3n	
+Turkey	TUR	Final Demand	Government final consumption P.3g	
+Turkey	TUR	Final Demand	Gross fixed capital formation P.51	
+Turkey	TUR	Final Demand	Changes in inventories P.52	
+Turkey	TUR	Final Demand	Acquisitions less disposals of valuables P.53	
+Turkmenistan	TKM	Final Demand	Household final consumption P.3h	
+Turkmenistan	TKM	Final Demand	Non-profit institutions serving households P.3n	
+Turkmenistan	TKM	Final Demand	Government final consumption P.3g	
+Turkmenistan	TKM	Final Demand	Gross fixed capital formation P.51	
+Turkmenistan	TKM	Final Demand	Changes in inventories P.52	
+Turkmenistan	TKM	Final Demand	Acquisitions less disposals of valuables P.53	
+Former USSR	USR	Final Demand	Household final consumption P.3h	
+Former USSR	USR	Final Demand	Non-profit institutions serving households P.3n	
+Former USSR	USR	Final Demand	Government final consumption P.3g	
+Former USSR	USR	Final Demand	Gross fixed capital formation P.51	
+Former USSR	USR	Final Demand	Changes in inventories P.52	
+Former USSR	USR	Final Demand	Acquisitions less disposals of valuables P.53	
+Uganda	UGA	Final Demand	Household final consumption P.3h	
+Uganda	UGA	Final Demand	Non-profit institutions serving households P.3n	
+Uganda	UGA	Final Demand	Government final consumption P.3g	
+Uganda	UGA	Final Demand	Gross fixed capital formation P.51	
+Uganda	UGA	Final Demand	Changes in inventories P.52	
+Uganda	UGA	Final Demand	Acquisitions less disposals of valuables P.53	
+Ukraine	UKR	Final Demand	Household final consumption P.3h	
+Ukraine	UKR	Final Demand	Non-profit institutions serving households P.3n	
+Ukraine	UKR	Final Demand	Government final consumption P.3g	
+Ukraine	UKR	Final Demand	Gross fixed capital formation P.51	
+Ukraine	UKR	Final Demand	Changes in inventories P.52	
+Ukraine	UKR	Final Demand	Acquisitions less disposals of valuables P.53	
+UAE	ARE	Final Demand	Household final consumption P.3h	
+UAE	ARE	Final Demand	Non-profit institutions serving households P.3n	
+UAE	ARE	Final Demand	Government final consumption P.3g	
+UAE	ARE	Final Demand	Gross fixed capital formation P.51	
+UAE	ARE	Final Demand	Changes in inventories P.52	
+UAE	ARE	Final Demand	Acquisitions less disposals of valuables P.53	
+UK	GBR	Final Demand	Household final consumption P.3h	
+UK	GBR	Final Demand	Non-profit institutions serving households P.3n	
+UK	GBR	Final Demand	Government final consumption P.3g	
+UK	GBR	Final Demand	Gross fixed capital formation P.51	
+UK	GBR	Final Demand	Changes in inventories P.52	
+UK	GBR	Final Demand	Acquisitions less disposals of valuables P.53	
+Tanzania	TZA	Final Demand	Household final consumption P.3h	
+Tanzania	TZA	Final Demand	Non-profit institutions serving households P.3n	
+Tanzania	TZA	Final Demand	Government final consumption P.3g	
+Tanzania	TZA	Final Demand	Gross fixed capital formation P.51	
+Tanzania	TZA	Final Demand	Changes in inventories P.52	
+Tanzania	TZA	Final Demand	Acquisitions less disposals of valuables P.53	
+USA	USA	Final Demand	Household final consumption P.3h	
+USA	USA	Final Demand	Non-profit institutions serving households P.3n	
+USA	USA	Final Demand	Government final consumption P.3g	
+USA	USA	Final Demand	Gross fixed capital formation P.51	
+USA	USA	Final Demand	Changes in inventories P.52	
+USA	USA	Final Demand	Acquisitions less disposals of valuables P.53	
+Uruguay	URY	Final Demand	Household final consumption P.3h	
+Uruguay	URY	Final Demand	Non-profit institutions serving households P.3n	
+Uruguay	URY	Final Demand	Government final consumption P.3g	
+Uruguay	URY	Final Demand	Gross fixed capital formation P.51	
+Uruguay	URY	Final Demand	Changes in inventories P.52	
+Uruguay	URY	Final Demand	Acquisitions less disposals of valuables P.53	
+Uzbekistan	UZB	Final Demand	Household final consumption P.3h	
+Uzbekistan	UZB	Final Demand	Non-profit institutions serving households P.3n	
+Uzbekistan	UZB	Final Demand	Government final consumption P.3g	
+Uzbekistan	UZB	Final Demand	Gross fixed capital formation P.51	
+Uzbekistan	UZB	Final Demand	Changes in inventories P.52	
+Uzbekistan	UZB	Final Demand	Acquisitions less disposals of valuables P.53	
+Vanuatu	VUT	Final Demand	Household final consumption P.3h	
+Vanuatu	VUT	Final Demand	Non-profit institutions serving households P.3n	
+Vanuatu	VUT	Final Demand	Government final consumption P.3g	
+Vanuatu	VUT	Final Demand	Gross fixed capital formation P.51	
+Vanuatu	VUT	Final Demand	Changes in inventories P.52	
+Vanuatu	VUT	Final Demand	Acquisitions less disposals of valuables P.53	
+Venezuela	VEN	Final Demand	Household final consumption P.3h	
+Venezuela	VEN	Final Demand	Non-profit institutions serving households P.3n	
+Venezuela	VEN	Final Demand	Government final consumption P.3g	
+Venezuela	VEN	Final Demand	Gross fixed capital formation P.51	
+Venezuela	VEN	Final Demand	Changes in inventories P.52	
+Venezuela	VEN	Final Demand	Acquisitions less disposals of valuables P.53	
+Viet Nam	VNM	Final Demand	Household final consumption P.3h	
+Viet Nam	VNM	Final Demand	Non-profit institutions serving households P.3n	
+Viet Nam	VNM	Final Demand	Government final consumption P.3g	
+Viet Nam	VNM	Final Demand	Gross fixed capital formation P.51	
+Viet Nam	VNM	Final Demand	Changes in inventories P.52	
+Viet Nam	VNM	Final Demand	Acquisitions less disposals of valuables P.53	
+Yemen	YEM	Final Demand	Household final consumption P.3h	
+Yemen	YEM	Final Demand	Non-profit institutions serving households P.3n	
+Yemen	YEM	Final Demand	Government final consumption P.3g	
+Yemen	YEM	Final Demand	Gross fixed capital formation P.51	
+Yemen	YEM	Final Demand	Changes in inventories P.52	
+Yemen	YEM	Final Demand	Acquisitions less disposals of valuables P.53	
+Zambia	ZMB	Final Demand	Household final consumption P.3h	
+Zambia	ZMB	Final Demand	Non-profit institutions serving households P.3n	
+Zambia	ZMB	Final Demand	Government final consumption P.3g	
+Zambia	ZMB	Final Demand	Gross fixed capital formation P.51	
+Zambia	ZMB	Final Demand	Changes in inventories P.52	
+Zambia	ZMB	Final Demand	Acquisitions less disposals of valuables P.53	
+Zimbabwe	ZWE	Final Demand	Household final consumption P.3h	
+Zimbabwe	ZWE	Final Demand	Non-profit institutions serving households P.3n	
+Zimbabwe	ZWE	Final Demand	Government final consumption P.3g	
+Zimbabwe	ZWE	Final Demand	Gross fixed capital formation P.51	
+Zimbabwe	ZWE	Final Demand	Changes in inventories P.52	
+Zimbabwe	ZWE	Final Demand	Acquisitions less disposals of valuables P.53	
+Statistical Discrepancies	ROW	Final Demand	Household final consumption P.3h	
+Statistical Discrepancies	ROW	Final Demand	Non-profit institutions serving households P.3n	
+Statistical Discrepancies	ROW	Final Demand	Government final consumption P.3g	
+Statistical Discrepancies	ROW	Final Demand	Gross fixed capital formation P.51	
+Statistical Discrepancies	ROW	Final Demand	Changes in inventories P.52	
+Statistical Discrepancies	ROW	Final Demand	Acquisitions less disposals of valuables P.53	
